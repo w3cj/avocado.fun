@@ -9,11 +9,12 @@ body {
 }
 
 .avocado {
-  width: 50%;
-  height: auto;
+  width: auto;
+  height: 70%;
   -webkit-animation: spin 2s infinite linear;
 }
 
+/*http://css3buttongenerator.com/*/
 button {
   background: #348a2f;
   background-image: -webkit-linear-gradient(top, #348a2f, #7bc748);
